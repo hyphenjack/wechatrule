@@ -4,6 +4,8 @@
         {
       "domain_suffix": [
         ".gstatic.com",
+        ".linkedin.com",
+        "www.linkedin.com",
         "my.zerotier.com"
       ]
     }
